@@ -5,6 +5,6 @@
   "compatibility_flags": ["nodejs_compat"],
   "main": "src/server.ts",
   "vars": {
-    "VITE_API_URL": "https://nexus-backend-production-085f.up.railway.app/api"
+    "VITE_API_URL": "https://nexus-api-076.up.railway.app/api"
   }
 }
