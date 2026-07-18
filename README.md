@@ -84,4 +84,4 @@ npm run dev
 - **Notifications** — User notifications
 
 ## 👨‍💻 Developer
-Built by **Mohamed Elsayed** as a portfolio project showcasing full-stack development skills.
+Built by **Ahmed Selim Mohamed** as a portfolio project showcasing full-stack development skills.
